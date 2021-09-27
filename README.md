@@ -19,5 +19,5 @@
 4. Sync vs Async / Blocking vs Non-blocking
 5. Race Condition
 6. Deadlock
-7. Memory Management (Now) 
-8. Disk Management
+7. Memory Management  
+8. Disk Management (now)
